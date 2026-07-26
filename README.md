@@ -113,6 +113,9 @@ Through this project, I explored:
 - Applying prompt engineering techniques
 
 ---
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
