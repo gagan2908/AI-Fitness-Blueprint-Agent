@@ -1,0 +1,6 @@
+# AI Fitness Blueprint Agent Dependencies
+
+openai
+python-dotenv
+requests
+pandas
