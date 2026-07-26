@@ -65,7 +65,11 @@ Fitness Blueprint Generation
 ↓
 Automated Email Delivery
 
+## 📧 Automated Email Delivery
 
+The generated fitness blueprint is automatically delivered to the user through an automated n8n workflow.
+
+![Email Proof](screenshots/email_proof.png)
 ---
 
 ## 📸 Demo
